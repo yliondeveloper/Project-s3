@@ -1,0 +1,14 @@
+name: BuildServer
+main: com.serverbuild.main.Main
+author: yLionCodes
+description: Plugin efetuado para o servidor de build
+version: 1.0
+commands:
+  horas:
+  warpset:
+  warp:  
+  cc:
+  ping:
+  spawn:
+  tp:
+  setcrs:
